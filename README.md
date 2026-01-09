@@ -8,7 +8,7 @@
 - ⚙️ Focused on **Data Structures & Algorithms**
 - 🧩 Strong interest in **problem-solving and system-level thinking**
 - 🌱 Currently building fundamentals in **C++, Python, and Web Development**
-- 🎯 Long-term goal: **FAANG Internship (2025–26)**
+- 🎯 Long-term goal: **CREATE PRODUCTS THAT MAKE SOME IMPACT**
 
 ---
 
@@ -45,12 +45,19 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Saksham-Xtreme&theme=tokyonight"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
