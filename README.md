@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Saksham%20Tripathi&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Software%20Engineering%20%7C%20Problem%20Solving&descAlignY=60&descAlign=50" alt="Saksham Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saksham%20Tripathi&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Software%20Engineering&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=35CDD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems...;Mastering+Algorithms+%26+Data+Structures;C%2B%2B+%2F+Python+%2F+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35CDD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems...;Mastering+Algorithms+%26+Data+Structures;C%2B%2B+%2F+Python+%2F+Web+Dev" alt="Typing SVG" />
   </a>
 
   <p>
@@ -23,53 +23,34 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="center">👨‍💻 The Source Code</h3>
-      <br />
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&hide_title=true&count_private=true&include_all_commits=true" alt="Stats" />
-      </div>
-      <br />
-      ```c++
-      class Engineer {
-        public:
-          string name = "Saksham Tripathi";
-          string focus = "DSA & Systems";
-          string philosophy = "Fundamentals > Noise";
-          
-          void dailyRoutine() {
-            while(alive) {
-              learn();
-              code();
-              optimize();
-            }
-          }
-      };
-      ```
-    </td>
-    <td width="45%" valign="top">
-      <h3 align="center">🛠 Tech Stack</h3>
-      <div align="center">
-        <br />
-        <img src="https://skillicons.dev/icons?i=cpp,python,java,c" />
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mysql" />
-        <br /><br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=dracula&hide_border=true&background=0D1117&hide_title=true&ring=FF5722&fire=FF5722&currStreakLabel=FF5722" alt="Streak" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h3 align="center">👨‍💻 The Source Code</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=false&width=600&height=180&lines=class+Engineer+{;++++name+%3D+%22Saksham+Tripathi%22;;++++focus+%3D+%22DSA+%26+Systems%22;;++++philosophy+%3D+%22Fundamentals+%3E+Noise%22;;++++void+dailyRoutine()+{+learn()%3B+code()%3B+optimize()%3B+};};" alt="Code Snippet" />
+</div>
 
 <br />
 
-<h3 align="center">🏆 Achievements & Activity</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Xtreme&theme=dracula&no-frame=true&margin-w=15&column=7" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,c" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mysql" />
+</div>
+
+<br />
+
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Saksham's Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true&background=0D1117&hide_title=false" alt="Saksham's Streak" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Xtreme&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
 </div>
 
 <br />
@@ -87,11 +68,13 @@
 
 | **Project** | **Tech Stack** | **Mission & Link** |
 | :--- | :--- | :--- |
-| **Public Thread** | `JavaScript` `HTML/CSS` `Render` | **Anonymous Discussion Platform**<br>Created to allow uninhibited, private discourse with a focus on backend logic.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://publicthread.onrender.com/chats) |
-| **JaanRaksha** | `Firebase` `JavaScript` `Vercel` | **Emergency Assistance System**<br>Real-time emergency response app designed for reliability in critical moments.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/) |
+| **Public Thread** | `JavaScript` `HTML` `Render` | **Anonymous Discussion Platform**<br>Created to allow uninhibited, private discourse.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://publicthread.onrender.com/chats) |
+| **JaanRaksha** | `Firebase` `JS` `Vercel` | **Emergency Assistance System**<br>Real-time emergency response app.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/) |
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=20" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&bg_color=0D1117&color=35CDD3&line=35CDD3&point=FFFFFF&hide_border=true" width="100%" />
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Consistency%20|%20Clarity%20|%20Code&fontSize=20&fontAlignY=40" width="100%" />
 </div>
