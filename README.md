@@ -43,7 +43,8 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Saksham's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Saksham's Stats" height="180" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true&background=0D1117&hide_title=false" alt="Saksham's Streak" height="180" />
 </div>
 
