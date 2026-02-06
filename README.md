@@ -41,21 +41,6 @@
 
 <br />
 
-<h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Saksham's Stats" height="180" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true&background=0D1117&hide_title=false" alt="Saksham's Streak" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Xtreme&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
-</div>
-
-<br />
-
 <h3 align="center">🧩 Algorithmic Consistency</h3>
 <div align="center">
   <a href="https://leetcode.com/sakshamtechie">
@@ -75,7 +60,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&bg_color=0D1117&color=35CDD3&line=35CDD3&point=FFFFFF&hide_border=true" width="100%" />
-  <br/><br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Consistency%20|%20Clarity%20|%20Code&fontSize=20&fontAlignY=40" width="100%" />
 </div>
