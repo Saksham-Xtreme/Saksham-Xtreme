@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saksham%20Tripathi&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Software%20Engineering&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35CDD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems...;Mastering+Algorithms+%26+Data+Structures;C%2B%2B+%2F+Python+%2F+Web+Dev" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35CDD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems...;Mastering+Algorithms+%26+Data+Structures;C%2B%2B+%2F+DBMS+%2F+Web+Dev" alt="Typing SVG" />
   </a>
 
   <p>
