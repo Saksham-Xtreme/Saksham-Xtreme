@@ -12,7 +12,7 @@
     <a href="https://github.com/Saksham-Xtreme">
       <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="mailto:your_email@example.com">
+    <a href="mailto:shivbhau2108@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://leetcode.com/sakshamtechie">
