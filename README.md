@@ -77,7 +77,7 @@
 | **LinkUp** | `React` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.IO` | **Real-Time Video Call & Chat Platform**<br>1:1 peer-to-peer communication platform with WebRTC video calling, real-time chat, Google OAuth login, and JWT-based authentication.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://link-up-sak.vercel.app/) |
 | **Public Thread** | `Express.js` `Node.js` `MongoDB` | **Anonymous Discussion Platform**<br>Created to allow uninhibited, private discourse with a focus on backend logic.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://publicthread.onrender.com/chats) |
 | **JaanRaksha** | `Firebase` `JavaScript` `Vercel` | **Emergency Assistance System**<br>Real-time emergency response app designed for reliability in critical moments.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/) |
-| **Basera** | `Node.js` `Express.js` `MongoDB` `EJS` | **Property Listing Platform**<br>Full-stack Airbnb-style web application where users can create listings, upload images, review properties, and simulate bookings.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://basera-tijc.onrender.com/) |
+| **Basera** | `Node.js` `Express.js` `MongoDB` `EJS` | **Property Listing Platform**<br>Full-stack web application where users can create listings, upload images, review properties, and simulate bookings.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://basera-tijc.onrender.com/) |
 <br />
 
 
