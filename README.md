@@ -43,7 +43,7 @@
 
 <br />
 
-<h3 align="center">🧩 Algorithmic Consistency</h3>
+<h3 align="center">🧩 Algorithmic Consistency i have</h3>
 
 <div align="center">
   <a href="https://leetcode.com/sakshamtechie">
