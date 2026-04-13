@@ -1,94 +1,254 @@
-<svg width="860" height="380" viewBox="0 0 860 380" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&amp;display=swap');
-    </style>
-    <clipPath id="card-clip">
-      <rect width="860" height="380" rx="12" ry="12"/>
-    </clipPath>
-  </defs>
+<div align="center">
 
-  <!-- Background -->
-  <rect width="860" height="380" rx="12" fill="#0d1117" clip-path="url(#card-clip)"/>
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  SETUP INSTRUCTIONS                                          ║
+  ║  1. Create a public repo named exactly: Saksham-Xtreme       ║
+  ║  2. Push this README.md to its root                          ║
+  ║  3. Put card.svg in an /assets folder in the same repo       ║
+  ║  4. Set up snake workflow (see bottom of file)               ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
-  <!-- Subtle grid lines -->
-  <line x1="0" y1="60" x2="860" y2="60" stroke="#161b22" stroke-width="1"/>
-  <line x1="480" y1="60" x2="480" y2="380" stroke="#161b22" stroke-width="1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:21262d&height=6&section=header" width="100%" />
 
-  <!-- Top pill: role tags -->
-  <rect x="36" y="20" width="340" height="22" rx="11" fill="#161b22"/>
-  <circle cx="52" cy="31" r="4" fill="#3fb950"/>
-  <text x="64" y="35" font-family="JetBrains Mono, monospace" font-size="11" fill="#555555">Software Engineer · DSA Practitioner · Builder</text>
+<br/>
 
-  <!-- Name -->
-  <text x="36" y="120" font-family="JetBrains Mono, monospace" font-size="52" font-weight="700" fill="#ffffff">Saksham</text>
-  <text x="36" y="172" font-family="JetBrains Mono, monospace" font-size="52" font-weight="700" fill="#21262d">Tripathi</text>
+<!-- ░░░░░░░░░░░░░░  HERO CARD  ░░░░░░░░░░░░░░ -->
+<img src="./assets/card.svg" width="100%" alt="Saksham Tripathi" />
 
-  <!-- Handle / meta -->
-  <text x="36" y="210" font-family="JetBrains Mono, monospace" font-size="12" fill="#444444">@Saksham-Xtreme · he/him · India</text>
+<br/><br/>
 
-  <!-- Bio -->
-  <text x="36" y="244" font-family="JetBrains Mono, monospace" font-size="13" fill="#888888">CS Undergrad obsessed with fundamentals — algorithms,</text>
-  <text x="36" y="262" font-family="JetBrains Mono, monospace" font-size="13" fill="#888888">systems, and real-time architecture. Building things that</text>
-  <text x="36" y="280" font-family="JetBrains Mono, monospace" font-size="13" fill="#888888">are fast, clean, and actually work.</text>
+<!-- ░░░░░░░░░░░░░░  PROFILE VIEWS + LINKS  ░░░░░░░░░░░░░░ -->
 
-  <!-- Achievement lines -->
-  <text x="36" y="312" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#cccccc">500+ problems solved</text>
-  <text x="36" y="330" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#cccccc">Full-stack · WebRTC · DSA · System Design</text>
-  <text x="36" y="348" font-family="JetBrains Mono, monospace" font-size="13" font-weight="700" fill="#cccccc">Always learning. Always shipping.</text>
+![Profile Views](https://komarev.com/ghpvc/?username=Saksham-Xtreme&style=flat-square&color=35CDD3&label=profile+views)&nbsp;
+![Followers](https://img.shields.io/github/followers/Saksham-Xtreme?style=flat-square&color=35CDD3&labelColor=161b22&label=followers)
 
-  <!-- Right side: stat cards -->
-  <!-- LeetCode -->
-  <rect x="500" y="80" width="160" height="80" rx="6" fill="#161b22"/>
-  <text x="516" y="104" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">LEETCODE</text>
-  <text x="516" y="138" font-family="JetBrains Mono, monospace" font-size="34" font-weight="700" fill="#FFA116">500+</text>
-  <text x="516" y="154" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">problems solved</text>
-  <rect x="516" y="158" width="130" height="2" rx="1" fill="#FFA116"/>
+<br/>
 
-  <!-- Codeforces -->
-  <rect x="680" y="80" width="160" height="80" rx="6" fill="#161b22"/>
-  <text x="696" y="104" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">CODEFORCES</text>
-  <text x="696" y="138" font-family="JetBrains Mono, monospace" font-size="34" font-weight="700" fill="#71C8FF">1200+</text>
-  <text x="696" y="154" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">rating · Pupil</text>
-  <rect x="696" y="158" width="130" height="2" rx="1" fill="#71C8FF"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-tripathi-7b25b0330/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivbhau2108@gmail.com)&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/sakshamtechie)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Saksham-Xtreme)&nbsp;
+![Open to Work](https://img.shields.io/badge/open%20to-opportunities-35CDD3?style=flat-square&labelColor=161b22)
 
-  <!-- GitHub -->
-  <rect x="500" y="178" width="160" height="80" rx="6" fill="#161b22"/>
-  <text x="516" y="202" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">GITHUB</text>
-  <text x="516" y="236" font-family="JetBrains Mono, monospace" font-size="34" font-weight="700" fill="#3FB950">100+</text>
-  <text x="516" y="252" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">contributions</text>
-  <rect x="516" y="256" width="130" height="2" rx="1" fill="#3FB950"/>
+</div>
 
-  <!-- CodeChef -->
-  <rect x="680" y="178" width="160" height="80" rx="6" fill="#161b22"/>
-  <text x="696" y="202" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">CODECHEF</text>
-  <text x="696" y="236" font-family="JetBrains Mono, monospace" font-size="34" font-weight="700" fill="#AB9DF2">3★</text>
-  <text x="696" y="252" font-family="JetBrains Mono, monospace" font-size="10" fill="#555555">rated · Active</text>
-  <rect x="696" y="256" width="130" height="2" rx="1" fill="#AB9DF2"/>
+<br/>
 
-  <!-- Bottom right: social badges row -->
-  <!-- LinkedIn -->
-  <rect x="500" y="278" width="76" height="26" rx="5" fill="#0A66C2"/>
-  <text x="538" y="296" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffffff" text-anchor="middle">LinkedIn</text>
-  <!-- Email -->
-  <rect x="584" y="278" width="60" height="26" rx="5" fill="#EA4335"/>
-  <text x="614" y="296" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffffff" text-anchor="middle">Gmail</text>
-  <!-- LeetCode link -->
-  <rect x="652" y="278" width="76" height="26" rx="5" fill="#1a1a1a"/>
-  <text x="690" y="296" font-family="JetBrains Mono, monospace" font-size="11" fill="#FFA116" text-anchor="middle">LeetCode</text>
-  <!-- GitHub link -->
-  <rect x="736" y="278" width="70" height="26" rx="5" fill="#1a1a1a"/>
-  <text x="771" y="296" font-family="JetBrains Mono, monospace" font-size="11" fill="#ffffff" text-anchor="middle">GitHub</text>
+---
 
-  <!-- Bottom grind stats -->
-  <rect x="500" y="320" width="340" height="44" rx="6" fill="#0d1117" stroke="#21262d" stroke-width="1"/>
-  <text x="520" y="338" font-family="JetBrains Mono, monospace" font-size="10" fill="#444444">THE GRIND</text>
-  <text x="520" y="356" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#FFA116">500+</text>
-  <text x="520" y="368" font-family="JetBrains Mono, monospace" font-size="9" fill="#444444">problems</text>
-  <text x="600" y="356" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#FF7B72">4</text>
-  <text x="600" y="368" font-family="JetBrains Mono, monospace" font-size="9" fill="#444444">projects</text>
-  <text x="660" y="356" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#79C0FF">daily</text>
-  <text x="660" y="368" font-family="JetBrains Mono, monospace" font-size="9" fill="#444444">consistency</text>
-  <text x="740" y="356" font-family="JetBrains Mono, monospace" font-size="12" font-weight="700" fill="#3FB950">∞</text>
-  <text x="740" y="368" font-family="JetBrains Mono, monospace" font-size="9" fill="#444444">passion</text>
-</svg>
+<br/>
+
+<div align="center">
+<sub>
+
+`Software Engineer` &nbsp;·&nbsp; `DSA Practitioner` &nbsp;·&nbsp; `Builder`
+
+</sub>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### TECH
+
+<br/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,react,nodejs,express,mongodb,mysql,firebase,git,linux,vscode&theme=dark&perline=14" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### PROJECTS
+
+<br/>
+
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" valign="top" style="padding:12px">
+
+**[↗ LinkUp](https://link-up-sak.vercel.app/)**
+
+Real-time 1:1 video call & chat platform.<br/>
+WebRTC · Socket.IO signaling · Google OAuth · JWT auth.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%" valign="top" style="padding:12px">
+
+**[↗ Public Thread](https://publicthread.onrender.com/chats)**
+
+Anonymous discussion platform.<br/>
+Backend-heavy architecture for uninhibited, private discourse.
+
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" style="padding:12px">
+
+**[↗ JaanRaksha](https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/)**
+
+Emergency assistance system.<br/>
+Zero-latency real-time response when every second matters.
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+<td width="50%" valign="top" style="padding:12px">
+
+**[↗ Basera](https://basera-tijc.onrender.com/)**
+
+Full-stack property listing platform.<br/>
+Create listings · upload images · write reviews · simulate bookings.
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+### ACTIVITY
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&bg_color=0d1117&color=35CDD3&line=35CDD3&point=ffffff&area=true&area_color=161b22&hide_border=true&custom_title=contribution+graph&radius=2" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&hide_border=true&bg_color=0d1117&title_color=35CDD3&icon_color=35CDD3&text_color=888888&count_private=true&include_all_commits=true" width="49%" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=dark&hide_border=true&background=0d1117&ring=35CDD3&fire=ff6b6b&currStreakLabel=35CDD3&sideLabels=888888&dates=444444&currStreakNum=ffffff&sideNums=aaaaaa&stroke=0d1117" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Xtreme&layout=compact&hide_border=true&bg_color=0d1117&title_color=35CDD3&text_color=888888&langs_count=8" width="42%" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### LEETCODE
+
+<br/>
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/sakshamtechie?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=4" width="75%" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### TROPHIES
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Saksham-Xtreme&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+### THE SNAKE
+
+<br/>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Saksham-Xtreme/Saksham-Xtreme/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Saksham-Xtreme/Saksham-Xtreme/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Saksham-Xtreme/Saksham-Xtreme/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</picture>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:161b22,100:21262d&height=80&section=footer&text=consistency+%C2%B7+clarity+%C2%B7+code&fontSize=16&fontColor=35CDD3&fontAlignY=55" width="100%" />
+
+</div>
+
+<!--
+═══════════════════════════════════════════════════════════
+  SNAKE ANIMATION SETUP
+  Create: .github/workflows/snake.yml
+═══════════════════════════════════════════════════════════
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Saksham-Xtreme
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+═══════════════════════════════════════════════════════════
+  CARD SETUP
+  Put card.svg inside an /assets folder in this repo
+  Update the numbers in card.svg with your actual ratings
+═══════════════════════════════════════════════════════════
+-->
