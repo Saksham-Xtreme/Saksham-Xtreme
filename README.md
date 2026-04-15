@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saksham%20Tripathi&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Software%20Engineering&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+
+<!-- Animated Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saksham+Tripathi+%F0%9F%91%8B;CS+Undergrad+%7C+Builder+%7C+Solver;Fundamentals+%3E+Noise." alt="Typing SVG" />
+</a>
+
+<br/>
 
   <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=Saksham-Xtreme&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
