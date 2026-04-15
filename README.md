@@ -80,6 +80,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&theme=tokyo-night&area=true" width="100%" />
 </div>
 
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Xtreme&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 <br/>
 
 
