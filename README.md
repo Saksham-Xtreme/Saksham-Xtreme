@@ -74,6 +74,20 @@
 
 <br />
 
+### 📈 Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&theme=tokyo-night&area=true" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Xtreme&layout=compact&theme=tokyo-night&hide_border=true" width="38%" />
+</div>
+
+
 <h3 align="center">💎 Featured Projects</h3>
 
 | **Project** | **Tech Stack** | **Mission & Link** |
