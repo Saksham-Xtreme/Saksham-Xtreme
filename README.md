@@ -50,15 +50,7 @@
 
 <h3 align="center">🧩 Algorithmic Consistency i have</h3>
 
-<div align="center">
-  <a href="https://leetcode.com/sakshamtechie">
-    <img 
-      src="https://leetcard.jacoblin.cool/sakshamtechie?theme=dark&font=Fira+Code&ext=activity" 
-      width="85%" 
-      alt="LeetCode Activity"
-    />
-  </a>
-</div>
+
 
 <br/>
 
