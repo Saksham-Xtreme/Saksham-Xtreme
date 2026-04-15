@@ -1,201 +1,98 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saksham%20Tripathi&fontSize=50&fontAlignY=35&desc=Computer%20Science%20Undergrad%20%7C%20Software%20Engineering&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
-<!-- Animated Header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Saksham+Tripathi+%F0%9F%91%8B;CS+Undergrad+%7C+Builder+%7C+Solver;Fundamentals+%3E+Noise." alt="Typing SVG" />
-</a>
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=Saksham-Xtreme&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+  <br /><br />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35CDD3&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems...;Mastering+Algorithms+%26+Data+Structures;C%2B%2B+%2F+DBMS+%2F+Web+Dev" alt="Typing SVG" />
+  </a>
+
+  <p>
+    <a href="https://www.linkedin.com/in/saksham-tripathi-7b25b0330/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/Saksham-Xtreme">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:shivbhau2108@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/sakshamtechie">
+      <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<table align="center" width="98%">
+  <tr>
+    <td width="55%" align="center" valign="middle">
+      <h3 align="center">👨‍💻 The Source Code</h3>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=450&height=230&lines=class+Engineer+{;++++name+%3D+%22Saksham+Tripathi%22;;++++focus+%3D+%22DSA+%26+Systems%22;;++++philosophy+%3D+%22Fundamentals+%3E+Noise%22;;++++void+dailyRoutine()+{;++++++++learn()%3B;++++++++code()%3B;++++++++optimize()%3B;++++};};" alt="Code Snippet" />
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <h3 align="center">🛠 Tech Stack</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,c" />
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+      <br /><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,mysql" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="center">🧩 Algorithmic Consistency i have</h3>
+
+
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/saksham-tripathi-7b25b0330/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Saksham-Xtreme">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:shivbhau2108@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/sakshamtechie">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Saksham-Xtreme&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```cpp
-class Saksham {
-    string name     = "Saksham Tripathi";
-    string role     = "CS Undergrad · Full-Stack Dev · DSA Enthusiast";
-    string location = "India";
-    
-    vector<string> currentlyLearning = {
-        "System Design",
-        "Advanced DSA",
-        "WebRTC & Real-time Systems"
-    };
-    
-    string philosophy = "Ship → Break → Learn → Repeat.";
-    
-    bool openToOpportunities() { return true; }
-};
-```
-
-- 🔭 Building real-time apps with **WebRTC**, **Socket.IO**, and **Node.js**
-- 📚 Grinding **Data Structures & Algorithms** — consistency over cramming
-- 🧠 Passionate about **systems thinking** and clean backend architecture
-- 🤝 Always open to collaborating on interesting full-stack or open-source projects
-- 📬 Reach me at **shivbhau2108@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## 🧩 Algorithmic Consistency
-
 <div align="center">
   <a href="https://leetcode.com/sakshamtechie">
-    <img src="https://leetcard.jacoblin.cool/sakshamtechie?theme=dark&font=Fira+Code&ext=contest" width="55%" alt="LeetCode Stats" />
+    <img 
+      src="https://leetcard.jacoblin.cool/sakshamtechie?theme=dark&font=Fira+Code&ext=contest" 
+      width="60%" 
+      alt="LeetCode Contest Rating"
+    />
   </a>
 </div>
 
----
+<br />
 
-## 💎 Featured Projects
-
-<div align="center">
-
-<table>
-  <thead>
-    <tr>
-      <th align="left">Project</th>
-      <th align="left">Stack</th>
-      <th align="left">What It Does</th>
-      <th align="center">Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>🔗 LinkUp</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </td>
-      <td>1:1 real-time video call & chat platform with Google OAuth and JWT auth</td>
-      <td align="center"><a href="https://link-up-sak.vercel.app/"><img src="https://img.shields.io/badge/Live-▶-00C853?style=flat-square"/></a></td>
-    </tr>
-    <tr>
-      <td><strong>🧵 Public Thread</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      </td>
-      <td>Anonymous discussion platform focused on uninhibited discourse and backend depth</td>
-      <td align="center"><a href="https://publicthread.onrender.com/chats"><img src="https://img.shields.io/badge/Live-▶-00C853?style=flat-square"/></a></td>
-    </tr>
-    <tr>
-      <td><strong>🚨 JaanRaksha</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-      </td>
-      <td>Emergency response system designed for critical-moment reliability</td>
-      <td align="center"><a href="https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/"><img src="https://img.shields.io/badge/Live-▶-00C853?style=flat-square"/></a></td>
-    </tr>
-    <tr>
-      <td><strong>🏡 Basera</strong></td>
-      <td>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
-      </td>
-      <td>Full-stack property listing app with image uploads, reviews, and bookings</td>
-      <td align="center"><a href="https://basera-tijc.onrender.com/"><img src="https://img.shields.io/badge/Live-▶-00C853?style=flat-square"/></a></td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
-
----
-
-## 📈 GitHub Activity
+### 📈 Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&theme=react-dark&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saksham-Xtreme&theme=tokyo-night&area=true" width="100%" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=github-dark-blue&hide_border=true" />
-  <br/><br/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Xtreme&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Saksham-Xtreme&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Xtreme&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Xtreme&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </div>
+<br/>
 
----
 
-## 🏆 GitHub Trophies
+
+<h3 align="center">💎 Featured Projects</h3>
+
+| **Project** | **Tech Stack** | **Mission & Link** |
+| :--- | :--- | :--- |
+| **LinkUp** | `React` `Node.js` `Express.js` `MongoDB` `WebRTC` `Socket.IO` | **Real-Time Video Call & Chat Platform**<br>1:1 peer-to-peer communication platform with WebRTC video calling, real-time chat, Google OAuth login, and JWT-based authentication.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://link-up-sak.vercel.app/) |
+| **Public Thread** | `Express.js` `Node.js` `MongoDB` | **Anonymous Discussion Platform**<br>Created to allow uninhibited, private discourse with a focus on backend logic.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://publicthread.onrender.com/chats) |
+| **JaanRaksha** | `Firebase` `JavaScript` `Vercel` | **Emergency Assistance System**<br>Real-time emergency response app designed for reliability in critical moments.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://jaan-raksha-firebase-4w5s2nymm-sakshams-projects-2387838f.vercel.app/) |
+| **Basera** | `Node.js` `Express.js` `MongoDB` `EJS` | **Property Listing Platform**<br>Full-stack web application where users can create listings, upload images, review properties, and simulate bookings.<br>[![Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square)](https://basera-tijc.onrender.com/) |
+
+<br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saksham-Xtreme&theme=onestar&no-frame=true&no-bg=false&margin-w=8&row=1" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-
-
-**⭐ If any of my projects helped you, a star would mean a lot!**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&text=Consistency%20|%20Clarity%20|%20Code&fontSize=20&fontAlignY=40" width="100%" />
 </div>
